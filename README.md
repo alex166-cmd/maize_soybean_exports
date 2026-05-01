@@ -1,3 +1,11 @@
-# Overview
-This Power BI dashboard was developed as a mini M&E project to track smallholder agricultural commercialization in Malawi using FAOSTAT export data (2020–2024).  
-
+malawi_agricultural_commercialisation/
+├── README.md                                        
+├── data/
+│   └── malawi_agricultural_commercilisation_data.csv  
+├── powerbi/
+│   └── malawi_agricultural_commercialisation_dashboard.pbix  
+└── docs/
+    ├── chart1_export_volume.png
+    ├── chart2_export_revenue.png
+    ├── chart3_price_per_tonne.png
+    └── chart4_volume_composition.png
