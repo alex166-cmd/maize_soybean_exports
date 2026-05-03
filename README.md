@@ -5,7 +5,8 @@ malawi_agricultural_commercialisation/
 ├── powerbi/
 │   └── malawi_agricultural_export_dashboard.pbix  
 └── docs/
-    ├── chart1_export_volume.png
-    ├── chart2_export_revenue.png
-    ├── chart3_price_per_tonne.png
-    └── chart4_volume_composition.png
+    ├── export_volume.png
+    ├── export_revenue.png
+    ├── kpi.png
+    └── revenue_volume_share.png
+    └── YoY_growth.png
