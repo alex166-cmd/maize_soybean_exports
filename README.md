@@ -3,7 +3,7 @@ malawi_agricultural_commercialisation/
 ├── data/
 │   └── malawi_agricultural_commercilisation_data.csv  
 ├── powerbi/
-│   └── malawi_agricultural_commercialisation_dashboard.pbix  
+│   └── malawi_agricultural_export_dashboard.pbix  
 └── docs/
     ├── chart1_export_volume.png
     ├── chart2_export_revenue.png
